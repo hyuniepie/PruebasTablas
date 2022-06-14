@@ -3,3 +3,5 @@ CREATE TABLE `usuarios_db`.`usuarios` (
   `usuario` VARCHAR(45) NOT NULL,
   `password` INT NOT NULL,
   PRIMARY KEY (`idusuarios`));
+  hola mariaaa
+  
